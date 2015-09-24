@@ -1,7 +1,7 @@
 PagerDuty-Dashing
 =================
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/thegreenrobot/pagerduty_dashing)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/lazaroj/pagerduty_dashing)
 
 [![Build Status](https://travis-ci.org/thegreenrobot/pagerduty_dashing.svg?branch=master)](https://travis-ci.org/thegreenrobot/pagerduty_dashing)
 
@@ -25,7 +25,7 @@ The easiest way to get started is to use Heroku button above to launch your dash
 | PAGERDUTY_URL | https://yoursubdomain.pagerduty.com |
 | PAGERDUTY_APIKEY | Your api key (this can be a read only key) |
 | PAGERDUTY_SERVICES | {"services": { "staging": "ABC1234","preprod": "QAZ4567","production": "EDC4321"}} |
-| PAGERDUTY_SCHEDULES | {"schedules": { "oncall": "ABC1234","firefighter": "QAZ4567"}} | 
+| PAGERDUTY_SCHEDULES | {"schedules": { "oncall": "ABC1234","firefighter": "QAZ4567"}} |
 
 FAQ
 ====
